@@ -1,6 +1,6 @@
-# Ekilie
+# ekilie
 
-Ekilie builds simple and efficient software focused on performance, clean architecture, and real world usability.
+ekilie builds simple and efficient software focused on performance, clean architecture, and real world usability.
 
 We work on open source tools, libraries, and products that solve practical problems.
 
