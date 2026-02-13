@@ -5,3 +5,5 @@ ekilie builds simple and efficient software focused on performance, clean archit
 We work on open source tools, libraries, and products that solve practical problems.
 
 Built with clarity. Shipped with purpose.
+
+~ Tachera Sasi -> Founder and Lead software engineer
