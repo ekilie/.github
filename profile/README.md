@@ -6,4 +6,4 @@ We work on open source tools, libraries, and products that solve practical probl
 
 Built with clarity. Shipped with purpose.
 
-~ Tachera Sasi -> Founder and Lead software engineer
+~ [Tachera Sasi](https://github.com/tacheraSasi) -> Founder and Lead software engineer
