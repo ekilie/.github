@@ -1,4 +1,5 @@
 # ekilie
+<img width="1983" height="793" alt="ChatGPT Image May 14 2026 Ekilie Banner (1)" src="https://github.com/user-attachments/assets/7003f562-ee30-47c6-90e1-242dea20d0bb" />
 
 ekilie builds self-hosted infrastructure software focused on performance, simplicity, and real-world use.
 
