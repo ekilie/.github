@@ -7,4 +7,4 @@ We create open source tools and systems that let developers run their own storag
 
 Built with clarity. Shipped with purpose.
 
-~ [Tachera Sasi](https://github.com/tacheraSasi) — Founder and Lead Engineer
+~ [Tachera Sasi](https://github.com/tacheraSasi) —> Founder and Lead Engineer
